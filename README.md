@@ -3,8 +3,22 @@
 **Subtask 1 - Krótki kurs podstaw SQL**
 
 
-_Operatory/zapytania:_
+_- Operatory:_
 
+ * arytmetyczne (+, -, *, /, %)
+ * porównujące (=, !=, <, >, <=, >=)
+ * logiczne (END, OR, NOT)
+ * operatory SQL (IN, BETWEEN, END, LIKE, IS NULL)
+
+_- Zapytania:_
+
+ * SELECT
+ * INSERT
+ * UPDATE
+ * DELETE
+ * ALTER
+ * DROP
+ * CREATE
 
 
 
