@@ -42,7 +42,7 @@ _3 - Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._
 
 _4 - Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$._
 
- ![obraz](https://user-images.githubusercontent.com/116674154/204140817-d3ddde75-ddce-4065-bbe2-02ed946e4cc7.png)
+![obraz](https://user-images.githubusercontent.com/116674154/204252354-4c2b0aea-186c-4410-8e53-9cbdb84ce4dc.png)
 
  
 _5 - Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._
