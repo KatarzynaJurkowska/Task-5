@@ -47,6 +47,7 @@ _4 - Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$._
  
 _5 - Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._
 
+![obraz](https://user-images.githubusercontent.com/116674154/204250907-8199b6c4-e4a1-4aab-99a2-aae2b4288128.png)
 
 
 _6 - Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._
